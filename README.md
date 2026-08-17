@@ -4,12 +4,12 @@
 
 Sou  formado em técnico em Inteligência Artificial no Senac, Minha jornada transita desde a criação de modelos robustos de Visão Computacional até pipelines RAG
 
-### 🚀 O que estou fazendo agora
+###  O que estou fazendo agora
 **Desenvolvendo Sistemas Inteligentes:** Criando projetos complexos como radares ALPR (YOLOv8 + OCR duplo com filtros ópticos avançados) e assistentes RAG (LangChain, ChromaDB, Whisper e Ollama local).
 **Automação Avançada:** Construindo fluxos de trabalho no n8n para extração e processamento de documentos pesados (como editais em PDF) integrados a bancos de dados.
 **Sempre Aprendendo:** Aprofundando meus conhecimentos em modelos generativos, PyTorch e otimização de ambientes Docker/WSL 2 para machine learning.
 
-### 🛠️ Minha Stack Principal
+###  Minha Stack Principal
 
 **Inteligência Artificial & Dados**
 <br>
